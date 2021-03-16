@@ -1,7 +1,0 @@
-let x = prompt("What is the capital of UK?");
-let y = prompt("What is the capital of Russia?");
-let z = prompt("What is the capital of Armenia?");
-
-let s = [x, y, z];
-
-alert(s);
